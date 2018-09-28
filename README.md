@@ -1,12 +1,10 @@
 # ControlV
 
-> 基于 vue 全家桶技术，使用 vue-cli 搭建，而后改造；参考了公司 touch2.0。
+> 基于 vue 全家桶技术，使用 vue-cli 搭建，而后改造；
 
 > 改造目的：
 
 > &emsp;&emsp;首先，致力于实现多版本发布，控制不同版本在项目中兼容，实现开发、测试、发布多个版本；而后，兼容多个项目同时开发
-
-> &emsp;&emsp;已经同步到 GitHub：https://github.com/johnshere/controlV
 
 ## Build Setup
 
