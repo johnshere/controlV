@@ -1,0 +1,36 @@
+{
+    "retCode": "000000",
+    "retMsg": "成功",
+    "object": {
+      "chrg": {
+        "chrgCount": "468632",
+        "chrgAmount": "29359156.05",
+        "qoqCount": "-12.04",
+        "qoqAmount": "-5.24",
+        "avgTime": "3.85",
+        "qoqTime": "-62.59"
+      },
+      "flow": {
+        "chrgCount": "24767",
+        "chrgAmount": "396298.46",
+        "qoqCount": "-6.76",
+        "qoqAmount": "2.86",
+        "avgTime": "0.87",
+        "qoqTime": "-5.43"
+      },
+      "deal": {
+        "chrgCount": "114800",
+        "qoqCount": "2.50",
+        "avgTime": "11.88",
+        "qoqTime": "4.21"
+      },
+      "sale": {
+        "chrgCount": "66",
+        "chrgAmount": "230767.62",
+        "qoqCount": "24.53",
+        "qoqAmount": "-13.21",
+        "avgTime": "0.02",
+        "qoqTime": "0.00"
+      }
+    }
+  }
